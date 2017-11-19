@@ -1,0 +1,11 @@
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\bin\Debug\netcoreapp2.0\WebApiTi.deps.json
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\bin\Debug\netcoreapp2.0\WebApiTi.runtimeconfig.json
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\bin\Debug\netcoreapp2.0\WebApiTi.runtimeconfig.dev.json
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\bin\Debug\netcoreapp2.0\WebApiTi.dll
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.csprojResolveAssemblyReference.cache
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.AssemblyInfo.cs
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\bin\Debug\netcoreapp2.0\WebApiTi.pdb
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.dll
+D:\VisualStudio\source\repos\WebApiTi\WebApiTi\obj\Debug\netcoreapp2.0\WebApiTi.pdb
